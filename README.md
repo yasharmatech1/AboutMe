@@ -106,7 +106,7 @@ To build scalable, secure, and production-ready cloud data platforms while conti
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/sharmaayash
-* 📧 Email: yasharma.tech1@gmail.com(mailto:yasharma.tech1@gmail.com)
+* 📧 Email: yasharma.tech1@gmail.com
 * 💻 GitHub: https://github.com/yasharmatech1
 
 ---
